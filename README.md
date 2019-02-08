@@ -10,6 +10,8 @@ date.coffee - day of week and day/month in upper middle
 
 time.coffee - my minuteglass that shows a progress bar on desktop left. usefull for [time boxing](https://en.wikipedia.org/wiki/Timeboxing)
 
+dnd.coffee - show DND if macOS "Do Not Disturb" mode is active
+
 ## inspiration
 
 Devine Lu Linvega - https://github.com/neauoire/ubersicht-widgets

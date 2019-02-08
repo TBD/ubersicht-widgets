@@ -22,6 +22,9 @@ style: """
   left: .3em
   text-shadow: 0 0 2px black
 
+  progress:hover
+    height: 10px
+
   progress
     appearance: none
     transform: rotate(90deg)
